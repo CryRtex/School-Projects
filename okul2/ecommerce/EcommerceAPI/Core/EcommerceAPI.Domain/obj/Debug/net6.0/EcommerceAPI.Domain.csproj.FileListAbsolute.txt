@@ -1,0 +1,12 @@
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\bin\Debug\net6.0\EcommerceAPI.Domain.deps.json
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\bin\Debug\net6.0\EcommerceAPI.Domain.dll
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\bin\Debug\net6.0\EcommerceAPI.Domain.pdb
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\obj\Debug\net6.0\EcommerceAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\obj\Debug\net6.0\EcommerceAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\obj\Debug\net6.0\EcommerceAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\obj\Debug\net6.0\EcommerceAPI.Domain.AssemblyInfo.cs
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\obj\Debug\net6.0\EcommerceAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\obj\Debug\net6.0\EcommerceAPI.Domain.dll
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\obj\Debug\net6.0\refint\EcommerceAPI.Domain.dll
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\obj\Debug\net6.0\EcommerceAPI.Domain.pdb
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Core\EcommerceAPI.Domain\obj\Debug\net6.0\ref\EcommerceAPI.Domain.dll

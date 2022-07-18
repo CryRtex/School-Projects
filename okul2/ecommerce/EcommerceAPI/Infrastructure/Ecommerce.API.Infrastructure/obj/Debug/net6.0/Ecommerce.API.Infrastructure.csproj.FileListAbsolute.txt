@@ -1,0 +1,17 @@
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\bin\Debug\net6.0\Ecommerce.API.Infrastructure.deps.json
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\bin\Debug\net6.0\Ecommerce.API.Infrastructure.dll
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\bin\Debug\net6.0\Ecommerce.API.Infrastructure.pdb
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\bin\Debug\net6.0\EcommerceAPI.Application.dll
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\bin\Debug\net6.0\EcommerceAPI.Domain.dll
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\bin\Debug\net6.0\EcommerceAPI.Application.pdb
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\bin\Debug\net6.0\EcommerceAPI.Domain.pdb
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\Ecommerce.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\Ecommerce.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\Ecommerce.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\Ecommerce.API.Infrastructure.AssemblyInfo.cs
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\Ecommerce.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\Ecommerce.API.Infrastructure.csproj.CopyComplete
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\Ecommerce.API.Infrastructure.dll
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\refint\Ecommerce.API.Infrastructure.dll
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\Ecommerce.API.Infrastructure.pdb
+C:\Users\emre_\Desktop\ecommerce\ecommerce\EcommerceAPI\Infrastructure\Ecommerce.API.Infrastructure\obj\Debug\net6.0\ref\Ecommerce.API.Infrastructure.dll
